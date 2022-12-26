@@ -38,7 +38,7 @@ JUnit test coverage is 100% as well as integration tests are available.
 ### Tech Stack
 
 ---
-- Java 11
+- Java 17
 - Spring Boot
 - Spring Data JPA
 - Kotlin 1.5.0
